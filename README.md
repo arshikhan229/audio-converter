@@ -2,16 +2,6 @@
 
 This project is a simple web-based application that allows users to upload audio files and convert them to different formats such as WAV, MP3, and OGG.
 
-audio-converter/
-│
-├── app.py # Main application file
-├── templates/
-│ └── index.html # HTML template
-├── static/
-│ └── styles.css # CSS file for styling
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
 ## Features
 
 - Upload audio files in various formats.
@@ -61,4 +51,15 @@ Follow these steps to get the project up and running on your local machine.
 4. Download the converted file.
 
 ## Project Structure
+
+audio-converter/
+│
+├── app.py # Main application file
+├── templates/
+│ └── index.html # HTML template
+├── static/
+│ └── styles.css # CSS file for styling
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
+
 
